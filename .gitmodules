@@ -1,0 +1,3 @@
+[submodule "examples/05 - Filesystem/vfsStream"]
+	path = examples/05 - Filesystem/vfsStream
+	url = git://github.com/mikey179/vfsStream.git
