@@ -26,7 +26,7 @@ extends PHPUnit_Framework_TestCase {
 
     /**
      * @expectedException PHPUnit_Framework_AssertionFailedError
-     * @expectedExceptionMessage is equal to User Object
+     * @expectedExceptionMessage blah is equal to User Object
      */
 	public function testAssertEquals_differentUser() {
 		$database = $this->getMock('Database');
