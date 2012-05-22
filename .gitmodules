@@ -1,3 +1,6 @@
 [submodule "examples/05 - Filesystem/vfsStream"]
 	path = examples/05 - Filesystem/vfsStream
 	url = git://github.com/mikey179/vfsStream.git
+[submodule "examples/06 - Web Services/phpunit-ticketlistener-jira"]
+	path = examples/06 - Web Services/phpunit-ticketlistener-jira
+	url = git://github.com/sebastianbergmann/phpunit-ticketlistener-jira
